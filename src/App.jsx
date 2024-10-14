@@ -1,5 +1,5 @@
 import './App.css'
-import GoogleAd from './components/AdComponent'
+
 
 function App() {
  
@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <h1>Ola</h1>
-      <GoogleAd slot="2302746272" />
+
     </>
   )
 }
